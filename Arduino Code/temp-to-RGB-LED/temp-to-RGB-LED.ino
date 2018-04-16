@@ -1,9 +1,11 @@
+// define the Arduino pins
 int tempSensor = A0;
 int LEDRpin = 11;
 int LEDGpin = 10;
 int LEDBpin = 9;
 
 void setup() {
+  // setup the pins
   pinMode(LEDRpin, OUTPUT);
   pinMode(LEDGpin, OUTPUT);
   pinMode(LEDBpin, OUTPUT);
