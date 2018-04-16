@@ -24,4 +24,9 @@ To contribute to a piece of code, or the whole repository, follow this procedure
 - Navigate to the folder and open the files you would like to change in your preferred code editor.
 - Save your changes.
 6. Commit changes.
-- 
+- When files change GitHub Desktop will notify you, stating 'x Uncommitted Changes' at the top of the GitHub window.
+- Click this notification to view the changes.
+- Commit the changes by giving them a name (a summary) and a description, then click the 'Commit to ...' button.
+7. Add branch to Master.
+- When you have finished developing code in the branch submit a 'Pull Request' in order to add the new code to the Master code. The Pull Request button is in the top right of the GitHub Desktop window.
+-  
