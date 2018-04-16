@@ -28,5 +28,7 @@ To contribute to a piece of code, or the whole repository, follow this procedure
 - Click this notification to view the changes.
 - Commit the changes by giving them a name (a summary) and a description, then click the 'Commit to ...' button.
 7. Add branch to Master.
-- When you have finished developing code in the branch submit a 'Pull Request' in order to add the new code to the Master code. The Pull Request button is in the top right of the GitHub Desktop window.
--  
+- When you have finished developing code in the branch submit a 'Pull Request' to add the new code to the Master. The Pull Request button is in the top right of the GitHub Desktop window.
+8. Contribute your work back to the Industrial Design Master.
+- Navigate to the Wearables repository on your GitHub account in a browser window.
+- Click on ?
