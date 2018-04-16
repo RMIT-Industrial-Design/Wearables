@@ -6,6 +6,7 @@ int LEDBpin = 9;
 
 void setup() {
   // setup the pins
+  // need to add more LEDs here
   pinMode(LEDRpin, OUTPUT);
   pinMode(LEDGpin, OUTPUT);
   pinMode(LEDBpin, OUTPUT);
