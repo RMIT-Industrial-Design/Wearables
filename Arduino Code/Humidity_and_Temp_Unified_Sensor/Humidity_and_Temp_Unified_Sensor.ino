@@ -5,6 +5,7 @@
 // Humidity and Temperature NeoPixel Display
 //
 // Written by Anthony Despotellis and Scott Mitchell
+// Based on code by Tony DiCola
 // Released under a GNU General Public License
 
 // Depends on the following Arduino libraries:
