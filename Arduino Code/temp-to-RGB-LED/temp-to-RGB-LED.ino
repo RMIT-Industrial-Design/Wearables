@@ -1,3 +1,13 @@
+// RMIT University
+// School of Design
+//
+// Wearables Studio
+// Temperature RGB Display
+// 
+// Written by Scott Mitchell
+// Released under a GNU General Public License
+
+
 // define the Arduino pins
 int tempSensor = A0;
 int LEDRpin = 11;
